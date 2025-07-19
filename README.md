@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: cursive;">Hi 👋, I'm Abhishek Yadav</h1>
+<h1 align="center" style="font-family: cursive;">Hi, I'm Abhishek Yadav</h1>
 
 <p align="center" style="font-family: cursive; font-size: 18px;">
 A Computer Science student at UPES, passionate about full-stack development and machine learning. I love building scalable frontends and robust backends using frameworks like Node.js and Django. From interactive web apps to 3D visualizations with Three.js, I enjoy solving real-world problems with code. Currently exploring machine learning, computer vision, and AI-powered tools. Let's connect and create something awesome! 🚀
