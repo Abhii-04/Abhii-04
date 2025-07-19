@@ -3,11 +3,6 @@
 
 Let's connect and build something amazing together! 🚀</h3>
 
-- 🔭 I’m currently working on [Custom CPU compiler](https://github.com/Abhii-04/Custom-CPU)
-
-- 🌱 I’m currently learning **OpenCV**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Abhii-04?tab=repositories](https://github.com/Abhii-04?tab=repositories)
 
 - 📫 How to reach me **abhi740000@gmail.com**
 
