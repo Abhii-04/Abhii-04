@@ -38,10 +38,8 @@
 ---
 
 ### 🎯 2025 Goals
-- 🧠 Master **AI and Computer Vision**
 - ⚙️ Contribute to **Open Source Projects**
 - ☁️ Learn **DevOps & Cloud Deployments**
-- 🏗️ Build a **cross-platform ML SaaS product**
 
 ---
 
