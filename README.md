@@ -14,6 +14,7 @@
 🤖 Currently exploring **machine learning**, **computer vision**, and **AI systems**.  
 🎮 Fun fact: Gamer turned developer, passionate about impactful software!
 
+[![An image of @abhii04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhii04)](https://holopin.io/@abhii04)
 ---
 
 ### 📫 Contact Me
