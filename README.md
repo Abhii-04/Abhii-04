@@ -43,7 +43,6 @@
 ### UPDATE
 Contributed in open source projects during Hacktoberfest
 [![An image of @abhii04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhii04)](https://holopin.io/@abhii04)
-
 ---
 
 ### 📊 GitHub Stats
