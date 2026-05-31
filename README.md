@@ -19,7 +19,7 @@
 ### 📫 Contact Me
 - ✉️ **Email:** [abhi740000@gmail.com](mailto:abhi740000@gmail.com)  
 - 📄 **Resume:** [View Resume](https://your-public-resume-link.com)  
-- 🌍 **Portfolio:** *Coming Soon*  
+- 🌍 **Portfolio:** abhi-dev.com 
 - 🏫 **From:** UPES, India 🇮🇳  
 
 ---
