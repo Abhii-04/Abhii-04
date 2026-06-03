@@ -28,35 +28,6 @@ I enjoy working across the stack—from designing APIs and database architecture
 - **LinkedIn:** [linkedin.com/in/abhishek-yadav-a965a6317](https://linkedin.com/in/abhishek-yadav-a965a6317)
 
 ---
-
-## Tech Stack
-
-### Languages
-
-`Python` `JavaScript` `SQL`
-
-### Frontend
-
-`React` `Next.js` `Flutter` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `Express.js` `FastAPI` `Flask`
-
-### AI & Agentic Systems
-
-`PyTorch` `LangChain` `LangGraph` `RAG` `NLP` `MCP` `AI Agents`
-
-### Databases
-
-`PostgreSQL` `MongoDB` `MySQL` `Supabase`
-
-### Tools
-
-`Docker` `Git` `Linux` `Playwright`
-
----
-
 ## Featured Projects
 
 | Project | Description | Stack |
