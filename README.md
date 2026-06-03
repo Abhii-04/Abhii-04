@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
+<h1 align="center">Hi, I'm Abhishek Yadav</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | Machine Learning Enthusiast | 3D & AI Explorer
@@ -12,28 +12,27 @@
 
 ### 👨‍💻 About Me
 
-🎓 I’m **Abhishek Yadav**, a Computer Science student at **UPES** passionate about **full-stack development** and **machine learning**.
+ I’m **Abhishek Yadav**, a Computer Science student at **UPES** passionate about **full-stack development** and **machine learning**.
 
-💡 I love building scalable frontends and robust backends using frameworks like **Node.js** and **Django**.
+I love building scalable frontends and robust backends using frameworks like **Node.js** and **Django**.
 
-🌐 I enjoy developing **interactive web apps**, **3D visualizations** with **Three.js**, and **AI-powered tools**.
+I enjoy developing **interactive web apps**, **3D visualizations** with **Three.js**, and **AI-powered tools**.
 
-🤖 Currently exploring **machine learning**, **computer vision**, and **AI systems**.
+Currently exploring **machine learning**, **computer vision**, and **AI systems**.
 
-🎮 Fun fact: Gamer turned developer, passionate about impactful software!
-
----
-
-### 📫 Contact Me
-
-- ✉️ **Email:** [abhi740000@gmail.com](mailto:abhi740000@gmail.com)
-- 📄 **Resume:** [View Resume](https://your-public-resume-link.com)
-- 🌍 **Portfolio:** abhi-dev.com
-- 🏫 **From:** UPES, India 🇮🇳
+ Fun fact: Gamer turned developer, passionate about impactful software!
 
 ---
 
-### 🚀 Featured Projects
+###  Contact Me
+
+-  **Email:** [abhi740000@gmail.com](mailto:abhi740000@gmail.com)
+-  **Resume:** [View Resume](https://your-public-resume-link.com)
+- **Portfolio:** ([abhi-dev.com](https://www.abhi-dev.com/))
+
+---
+
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
@@ -41,13 +40,6 @@
 | **3D Portfolio Website** | Interactive 3D web portfolio using Three.js and Node.js backend. | Three.js, Express, MongoDB |
 | **Realtime Chat App** | Secure and responsive chat app with authentication and live updates. | Node.js, Express, Socket.IO |
 | **AI Image Analyzer** | Detects and classifies images using ML models integrated with Flask. | Python, TensorFlow, Flask |
-
----
-
-### 🎯 2025 Goals
-
-- ⚙️ Contribute to **Open Source Projects**
-- ☁️ Learn **DevOps & Cloud Deployments**
 
 ### UPDATE
 
@@ -70,7 +62,7 @@ Contributed in open source projects during Hacktoberfest
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="mailto:abhi740000@gmail.com">
