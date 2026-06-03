@@ -1,7 +1,7 @@
 <h1 align="center">Abhishek Yadav</h1>
 
 <h3 align="center">
-  Fullstack Developer • AI Systems Engineer
+  backend Developer • AI Engineer
 </h3>
 
 <p align="center">
