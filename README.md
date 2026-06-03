@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhishek Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Machine Learning Enthusiast | 3D & AI Explorer
+  AI Engineer + Backend Developer
 </h3>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ### 👨‍💻 About Me
 
- I’m **Abhishek Yadav**, a Computer Science student at **UPES** passionate about **full-stack development** and **machine learning**.
+ I’m **Abhishek Yadav**, a Computer Science student at **UPES** passionate about **full-stack development** and **Artificial Intelligence**.
 
-I love building scalable frontends and robust backends using frameworks like **Node.js** and **Django**.
+I love building scalable and robust backends using frameworks like **Node.js** and **Django**.
 
-I enjoy developing **interactive web apps**, **3D visualizations** with **Three.js**, and **AI-powered tools**.
+I enjoy developing **interactive web apps**, and **AI-powered tools**.
 
-Currently exploring **machine learning**, **computer vision**, and **AI systems**.
+Currently exploring **machine learning**, and **AI systems**.
 
  Fun fact: Gamer turned developer, passionate about impactful software!
 
