@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
  I’m **Abhishek Yadav**, a Computer Science student at **UPES** passionate about **full-stack development** and **Artificial Intelligence**.
 
