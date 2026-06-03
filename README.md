@@ -1,7 +1,7 @@
 <h1 align="center">Abhishek Yadav</h1>
 
 <h3 align="center">
-  backend Developer • AI Engineer
+  Backend Developer • AI Engineer
 </h3>
 
 <p align="center">
