@@ -27,31 +27,7 @@ I enjoy working across the stack—from designing APIs and database architecture
 - **GitHub:** [github.com/Abhii-04](https://github.com/Abhii-04)
 - **LinkedIn:** [linkedin.com/in/abhishek-yadav-a965a6317](https://linkedin.com/in/abhishek-yadav-a965a6317)
 
----
-## Featured Projects
 
-| Project | Description | Stack |
-|----------|-------------|--------|
-| **TruthLens** | AI-powered fake news detection platform with NLP pipelines and real-time inference. | Flask, PyTorch, NLP, Docker |
-| **SideKick** | Autonomous AI agent framework with browser automation, tool orchestration, and self-correcting workflows. | LangGraph, LangChain, Playwright |
-| **ZaFlora** | Production-ready e-commerce platform with authentication, payments, and order management. | Node.js, Express, Supabase, Razorpay |
-| **FORENCIFY** | Multi-platform digital forensics platform with interactive investigation workflows. | Flask, Socket.IO, Leaflet.js |
-
-
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhii-04&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhii-04&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhii-04&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## Connect
 
