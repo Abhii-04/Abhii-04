@@ -12,12 +12,10 @@
 
 ## About Me
 
-I'm a Fullstack Developer focused on building scalable web applications, backend systems, and AI-powered products.
-
-My interests lie at the intersection of software engineering and artificial intelligence, with experience developing production-ready applications, autonomous AI agents, and intelligent automation tools.
-
-I enjoy working across the stack—from designing APIs and database architectures to building intuitive user experiences and deploying reliable systems.
-
+Backend and Agentic AI developer experienced in building multi-agent workflows, tool-calling systems, REST APIs,
+payment integrations, and database-backed applications. Built LangGraph-based agents with workflow routing, persistent
+memory, human approval controls, and external service integrations using Python, LangChain, MCP, Node.js, PostgreSQL,
+and Supabase.
 ---
 
 ## Contact
