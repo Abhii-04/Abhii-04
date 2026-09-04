@@ -37,19 +37,8 @@ I enjoy working across the stack—from designing APIs and database architecture
 | **ZaFlora** | Production-ready e-commerce platform with authentication, payments, and order management. | Node.js, Express, Supabase, Razorpay |
 | **FORENCIFY** | Multi-platform digital forensics platform with interactive investigation workflows. | Flask, Socket.IO, Leaflet.js |
 
----
 
-## Open Source
 
-Contributed to open-source projects during Hacktoberfest and actively participate in community-driven software development.
-
-<p align="center">
-  <a href="https://holopin.io/@abhii04">
-    <img src="https://holopin.me/abhii04" alt="Holopin Badges" />
-  </a>
-</p>
-
----
 
 ## GitHub Stats
 
