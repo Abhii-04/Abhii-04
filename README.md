@@ -12,10 +12,12 @@
 
 ## About Me
 
-Backend and Agentic AI developer experienced in building multi-agent workflows, tool-calling systems, REST APIs,
-payment integrations, and database-backed applications. Built LangGraph-based agents with workflow routing, persistent
-memory, human approval controls, and external service integrations using Python, LangChain, MCP, Node.js, PostgreSQL,
-and Supabase.
+<p>
+  Backend and Agentic AI developer experienced in building multi-agent workflows, tool-calling systems, REST APIs,
+  payment integrations, and database-backed applications. Built LangGraph-based agents with workflow routing, persistent
+  memory, human approval controls, and external service integrations using Python, LangChain, MCP, Node.js, PostgreSQL,
+  and Supabase.
+</p>
 ---
 
 ## Contact
